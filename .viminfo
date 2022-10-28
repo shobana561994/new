@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1666979180,,"wq!"
+|2,0,1666980922,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -23,18 +23,35 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	it config --global user.email “shobana561994@gmailgit config --global user.email “shobana561994@gmail.coii
+|3,1,1,1,1,0,1666980840,"it config --global user.email “shobana561994@gmailgit config --global user.email “shobana561994@gmail.coii"
 
 # File marks:
-'0  2  21  ~/test
-|4,48,2,21,1666979180,"~/test"
-'1  1  21  ~/test
-|4,49,1,21,1666978830,"~/test"
-'2  2  0  ~/test
-|4,50,2,0,1666978830,"~/test"
+'0  3  20  ~/test
+|4,48,3,20,1666980922,"~/test"
+'1  2  21  ~/test
+|4,49,2,21,1666979180,"~/test"
+'2  2  21  ~/test
+|4,50,2,21,1666979180,"~/test"
+'3  1  21  ~/test
+|4,51,1,21,1666978830,"~/test"
+'4  2  0  ~/test
+|4,52,2,0,1666978830,"~/test"
+'5  1  21  ~/test
+|4,53,1,21,1666978830,"~/test"
+'6  2  0  ~/test
+|4,54,2,0,1666978830,"~/test"
 
 # Jumplist (newest first):
+-'  3  20  ~/test
+|4,39,3,20,1666980922,"~/test"
+-'  2  21  ~/test
+|4,39,2,21,1666980667,"~/test"
 -'  2  21  ~/test
 |4,39,2,21,1666979180,"~/test"
+-'  1  21  ~/test
+|4,39,1,21,1666979068,"~/test"
 -'  1  21  ~/test
 |4,39,1,21,1666979068,"~/test"
 -'  2  0  ~/test
@@ -45,9 +62,13 @@
 # History of marks within files (newest to oldest):
 
 > ~/test
-	*	1666979173	0
-	"	2	21
-	^	2	22
-	.	2	21
+	*	1666980916	0
+	"	3	20
+	^	3	21
+	.	3	21
 	+	1	21
-	+	2	21
+	+	2	22
+	+	3	111
+	+	3	2
+	+	4	0
+	+	3	21
